@@ -1,5 +1,7 @@
 # Hexanium
 
+### npm i hexanium
+
 ## Empty Server Finder Example
 
 ```js
