@@ -1,0 +1,21 @@
+{
+  "name": "hexanium",
+  "version": "1.0.3",
+  "description": "Hexanium is an empty server finder for roblox, which also allows you to stream snipe others.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "superagent": "^6.1.0"
+  },
+  "keywords": [
+    "Roblox",
+    "Server Finder",
+    "Server Scraper",
+    "Player Finder",
+    "Player Scraper"
+  ],
+  "author": "exospheric (github/ExosphericDev | exospheric.dev@gmail.com)",
+  "license": "ISC"
+}
